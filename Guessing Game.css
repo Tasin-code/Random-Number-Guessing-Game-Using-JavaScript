@@ -1,0 +1,27 @@
+body{
+	font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: pink;
+}
+
+p{
+	text-align: center;
+	font-size: 45px;
+}
+
+.btn{
+	position: absolute;
+	left: 45%;
+	top: 25%;
+	height: 55px;
+	width: 150px;
+	font-size: 25px;
+	border-radius: 10px;
+	background-color: #017bf7;
+}
+	
+.btn :hover{
+	box-shadow: 0 3px 3px 0 black;
+}
+	
